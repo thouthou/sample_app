@@ -11,3 +11,7 @@
  *= require_self
  *= require_tree .
  */
+body {
+	background-image:url('//home//thuha//rails_projects//sample_app//public//2.jpg');
+}
+

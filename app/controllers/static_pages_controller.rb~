@@ -1,7 +1,14 @@
 class StaticPagesController < ApplicationController
   def home
+	puts "Thou dep zai"
   end
 
   def help
+  end
+
+  def about
+  end
+  
+  def contact
   end
 end
